@@ -1,0 +1,2 @@
+Hola mi nombre es Marcel Rodríguez y tengo 29 años 
+Estoy tomando el curso de git y github de la mano de Freddy Vega en platzi
