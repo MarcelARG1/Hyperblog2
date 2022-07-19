@@ -1,4 +1,5 @@
 Hola mi nombre es Marcel Rodríguez y tengo 30 años 
+Hoy hablaremos de su vida en Argentina.
 Ahora me encuentro viviendo en Argentina y me gustaria converstirme en desarrollador de software backend
 Estoy tomando el curso de git y github de la mano de Freddy Vega en platzi
 En camara parece alto pero la verdad no es tan alto.
