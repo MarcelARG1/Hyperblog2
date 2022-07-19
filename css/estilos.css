@@ -18,16 +18,18 @@ body{
     padding: 0.5em;
 
 }
+
 #cabecera #tagline 
 {
-    padding: len 0 0 0 len
+    padding: len 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
+
 #container
 {
     width: 70%;
-    padding: len;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
@@ -36,4 +38,8 @@ body{
 #container h1
 {
 font-size: 20px;
+}
+#post
+{
+    padding: 1em;
 }
