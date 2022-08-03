@@ -22,7 +22,7 @@ body{
 
 #cabecera #tagline 
 {
-    padding: len 0 0 0 1em;
+    padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
@@ -43,4 +43,12 @@ font-size: 20px;
 #post
 {
     padding: 1em;
+}
+
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+
 }
